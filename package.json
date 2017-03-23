@@ -1,7 +1,7 @@
 {
   "main": "./string_decoder.js",
   "name": "jspm-nodelibs-string_decoder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./string_decoder.js": {
       "node": "@node/string_decoder",
